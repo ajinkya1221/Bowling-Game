@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\bin\Debug\Test.BowlingGame.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-01-20" time="09:32:06">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="LAB6" user="abhagwat" user-domain="PUNE" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\bin\Debug\Test.BowlingGame.dll" executed="True" result="Success" success="True" time="0.077" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.063" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="BowlingGame" executed="True" result="Success" success="True" time="0.062" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="Testcases" executed="True" result="Success" success="True" time="0.060" asserts="0">
+                <results>
+                  <test-case name="Test.BowlingGame.Testcases.AllGutterRollScenario" executed="True" result="Success" success="True" time="0.037" asserts="1" />
+                  <test-case name="Test.BowlingGame.Testcases.AllSpareScenario" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.BowlingGame.Testcases.AllStrikesScenario" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.BowlingGame.Testcases.SimpleRollScenario" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

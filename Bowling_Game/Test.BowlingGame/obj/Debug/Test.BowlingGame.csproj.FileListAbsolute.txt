@@ -1,0 +1,7 @@
+D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\bin\Debug\Test.BowlingGame.dll
+D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\bin\Debug\Test.BowlingGame.pdb
+D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\bin\Debug\RollAndGetScore.dll
+D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\bin\Debug\RollAndGetScore.pdb
+D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\obj\Debug\Test.BowlingGame.csprojResolveAssemblyReference.cache
+D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\obj\Debug\Test.BowlingGame.dll
+D:\ajinkya\c#\Nikhil's Assignments\Bowling\Bowling_Game\Test.BowlingGame\obj\Debug\Test.BowlingGame.pdb
